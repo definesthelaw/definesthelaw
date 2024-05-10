@@ -12,7 +12,6 @@
             margin: 0;
             padding: 0;
         }
-
         header {
             background-color: #8B0000;
             padding: 20px;
