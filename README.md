@@ -1,8 +1,6 @@
 <!DOCTYPE html>
-
 <html lang="en">
 <head>
-
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Shérif Crux - Defines The Law</title>
@@ -103,16 +101,12 @@
 
     </style>
 </head>
-
 <body>
     <header>
         <h1>Shérif Crux</h1>
         <h2></h2>
-
         <img class="logo" src="BUU-transformed.png" alt="Shérif Crux Logo">
-        
-        <h2></h2>
-
+                <h2></h2>
         <p>Defines The Law</p>
         <nav>
             <a href="#about">About</a>
@@ -120,15 +114,10 @@
             <a href="#contact">Contact</a>
         </nav>
     </header>
-
     <div class="container" id="about">
         <h2>About Shérif Crux</h2>
         <p>Shérif Crux is a Lagos-based streetwear brand that popped up out of nowhere in 2024. Lagos, being such a vibrant and culturally rich city, is the perfect backdrop for a streetwear brand like Shérif Crux to make its mark.</p>
-
     </div>
-
-
-
     <div class="item">
         <h2>Lust White on Black</h2>
         <p>Price: ₦18000</p>
@@ -137,14 +126,10 @@
         <img src="path (2).png">
         <h2>Back</h2>
         <img src="path (1).png">
-    
         <button id="addToCartBtn1" onclick="addToCart(18000, 1)">Add to Cart</button>
-    
         <h2>Front</h2>
-
         <img src="path (3).png">
         <h2></h2>
-
         <h2>Back</h2>
 
         <img src="path (4).png">
@@ -273,8 +258,6 @@
             // Initially, hide the website content until the correct password is entered
             document.body.style.display = "none";
             unlockWebsite();
-
         </script>
-    
-<html>
+    <html>
     
